@@ -30,6 +30,10 @@
             <li><a href="W02_01_oddEvenNumber.php">Odd-Even-Number</a></li>
             <li><a href="W02_02_grade.php">Calculate Grade</a></li>
             <li><a href="Calculate Money.php">Calculate</a></li>
+            <li><a href="W06_01_loopProduct.php">Show Product (fix data)</a></li>
+            <li><a href="">Connect Database</a></li>
+            <li><a href="">Show Product (From Database)</a></li>
+            <li><a href=""></a></li>
         </ul>
 </body>
 </html>
