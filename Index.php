@@ -31,8 +31,9 @@
             <li><a href="W02_02_grade.php">Calculate Grade</a></li>
             <li><a href="Calculate Money.php">Calculate</a></li>
             <li><a href="W06_01_loopProduct.php">Show Product (fix data)</a></li>
-            <li><a href="">Connect Database</a></li>
-            <li><a href="">Show Product (From Database)</a></li>
+            <li><a href="W07_01_connectDB.php">Connect Database</a></li>
+            <li><a href="W07_02_fetchData.php">Fetch Data</a></li>
+            <li><a href="W08_01_ProductfromDB.php">Show Product (From Database)</a></li>
             <li><a href=""></a></li>
         </ul>
 </body>
